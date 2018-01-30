@@ -1,0 +1,23 @@
+{
+  "name": "hangman_cli",
+  "version": "1.0.0",
+  "description": "hangman game",
+  "main": "hangman.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silvery787/Hangman_CLI.git"
+  },
+  "author": "victoria pismennaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silvery787/Hangman_CLI/issues"
+  },
+  "homepage": "https://github.com/silvery787/Hangman_CLI#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "inquirer": "^5.0.1"
+  }
+}
