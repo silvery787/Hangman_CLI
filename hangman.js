@@ -3,7 +3,7 @@ var colors = require('colors');
 
 var Word = require('./word.js');
 
-const MAX_TRIES = 3;
+const MAX_TRIES = 10;
 
 var WordList = ["Game of Thrones", "Walking Dead", "Friends", 
 	"Stranger things", "Breaking Bad", "True Detective", 
