@@ -5,6 +5,12 @@ which implements a Hangman Game logic.
 
 The 'words' to be guessed are popular TV shows.
 
+**Run instructions:**
+```
+npm install
+node hangman.js
+```
+
 The project is one of the assignments of 
 Full Stack Web Development Coding Boot Camp (2018),
 UC Berkeley Extension, Berkeley, CA.
